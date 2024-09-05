@@ -1,0 +1,4 @@
+ git rebase -i --root
+ git commit --amend
+ git rebase --continue
+ git rebase --abort
